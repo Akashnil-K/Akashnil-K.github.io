@@ -1,2 +1,2 @@
-# akashnil.github.io
+# Akashnil Kaibartta
 Personal Academic Website
