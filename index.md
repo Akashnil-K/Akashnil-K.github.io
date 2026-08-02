@@ -10,4 +10,4 @@ Currently I am attending [ESIIL Data Short Course 2026](https://cu-esiil-edu.git
 
 
 ### Interactive Maps
-<embed type="text/html" src="/img/cu_map.html" height="650" width="850">
+<embed src="/img/cu_map.html" width="400" height="400" type="text/html">
