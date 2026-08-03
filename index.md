@@ -9,5 +9,8 @@ Currently I am attending [ESIIL Data Short Course 2026](https://cu-esiil-edu.git
 - Personal Webpage
 
 
-### Interactive Maps
+## Interactive Map of Ballavpur Wildlife Sanctuary
 <embed src="/img/bus_map.html" width="850" height="650" type="text/html">
+
+## NDVI Image of Tubarjal Valley
+![NDVI Image of Tubarjal Valley](/img/tubarjal.png)
