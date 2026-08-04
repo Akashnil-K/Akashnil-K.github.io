@@ -14,3 +14,6 @@ Currently I am attending [ESIIL Data Short Course 2026](https://cu-esiil-edu.git
 
 ## NDVI Image of Tubarjal Valley
 ![NDVI Image of Tubarjal Valley](/img/tubarjal.png)
+
+## 30 years of temperature data for Boulder, Colorado, USA
+<embed src="/img/boulder_plot.html" width="850" height="650" type="text/html">
