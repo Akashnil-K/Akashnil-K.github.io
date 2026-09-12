@@ -10,8 +10,6 @@ I am a graduate in B.Sc. (Agricultural Sciences) from Palli Siksha Bhavana, Visv
 ## Interactive Map of Ballavpur Wildlife Sanctuary
 <embed src="/img/bus_map.html" width="850" height="650" type="text/html">
 
-## NDVI Image of Tubarjal Valley
-![NDVI Image of Tubarjal Valley](/img/tubarjal.png)
 
 ## 30 years of temperature data for Iowa City, USA
 <embed src="/img/iowa_plot.html" width="850" height="650" type="text/html">
